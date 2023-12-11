@@ -1,2 +1,2 @@
 # IMBlocker-Update
-Update versions of IMBlocker mod.
+Update versions of [IMBlocker](https://github.com/reserveword/IMBlocker) mod.
